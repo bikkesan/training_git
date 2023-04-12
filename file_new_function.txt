@@ -2,5 +2,5 @@ void func_a( const char* inStr );
 
 void func_a( const char* inStr )
 {
-	printf("instr=%s", inStr );
+	printf("instr=%s\n", inStr );
 }
